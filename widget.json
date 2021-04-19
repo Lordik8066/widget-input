@@ -1,4 +1,9 @@
 {
+  "title": "Widget Input",
+  "status": "stable",
+  "repositoryUrl": "https://github.com/Lordik8066/widget-input",
+  "machineName": "widget-input",
+  "version": "v1.0.0",
   "availableTranslations": [
     "en",
     "es"
@@ -31,11 +36,5 @@
     "react-intl": {
       "src": "https://unpkg.com/react-intl-bundle@^1/dist/react-intl.production.min.js"
     }
-  },
-  "title": "Widget Input",
-  "status": "stable",
-  "repositoryUrl": "https://github.com/Lordik8066/widget-input",
-  "machineName": "widget-input",
-  "version": "v1.0.0"
-  
+  }
 }
