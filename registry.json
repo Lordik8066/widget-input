@@ -2,8 +2,8 @@
   {
     "title": "Widget Input",
     "status": "stable",
-    "repositoryUrl": "https://lordik8066.github.io/widget-input/",
-    "directoryUrl": "https://lordik8066.github.io/widget-input/v1/v1",
+    "repositoryUrl": "https://github.com/Lordik8066/widget-input",
+    "directoryUrl": "https://github.com/Lordik8066/widget-input/v1",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -19,8 +19,8 @@
     ],
     "assetManifest": {
       "files": {
-        "main.css": "https://lordik8066.github.io/widget-input/v1/css/main.css",
-        "main.js": "https://lordik8066.github.io/widget-input/v1/js/main.js"
+        "main.css": "https://github.com/Lordik8066/widget-input/v1/css/main.css",
+        "main.js": "https://github.com/Lordik8066/widget-input/v1/js/main.js"
       },
       "entrypoints": [
         "css/main.css",
